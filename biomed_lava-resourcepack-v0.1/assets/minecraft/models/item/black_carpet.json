@@ -1,0 +1,102 @@
+{
+	"parent": "block/black_carpet",
+	"overrides": [
+	
+		{
+			"predicate": {
+				"custom_model_data": 9080001
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080002
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080003
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080004
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080005
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080006
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080007
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080008
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080009
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080010
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080011
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080012
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080013
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080014
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080015
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080016
+			},
+			"model": "sk:biomed_lava/block/black"
+		}
+	]
+}

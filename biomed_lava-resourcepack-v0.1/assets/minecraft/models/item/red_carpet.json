@@ -1,0 +1,677 @@
+{
+	"parent": "block/red_carpet",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 9080000
+			},
+			"model": "sk:biomed_lava/block/extension/colors/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080001
+			},
+			"model": "sk:biomed_lava/block/extension/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080002
+			},
+			"model": "sk:biomed_lava/block/extension/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080003
+			},
+			"model": "sk:biomed_lava/block/extension/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080004
+			},
+			"model": "sk:biomed_lava/block/extension/colors/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080005
+			},
+			"model": "sk:biomed_lava/block/extension/colors/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080006
+			},
+			"model": "sk:biomed_lava/block/extension/colors/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080007
+			},
+			"model": "sk:biomed_lava/block/extension/colors/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080008
+			},
+			"model": "sk:biomed_lava/block/extension/colors/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080009
+			},
+			"model": "sk:biomed_lava/block/extension/colors/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080010
+			},
+			"model": "sk:biomed_lava/block/extension/colors/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080011
+			},
+			"model": "sk:biomed_lava/block/extension/colors/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080012
+			},
+			"model": "sk:biomed_lava/block/extension/colors/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080013
+			},
+			"model": "sk:biomed_lava/block/extension/colors/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080014
+			},
+			"model": "sk:biomed_lava/block/extension/colors/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080015
+			},
+			"model": "sk:biomed_lava/block/extension/colors/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080016
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080017
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080018
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080019
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080020
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080021
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080022
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080023
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080024
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080025
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080026
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080027
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080028
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080029
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080030
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080031
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080032
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080033
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080034
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080035
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080036
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080037
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080038
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080039
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080040
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080041
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080042
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080043
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080044
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080045
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080046
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080047
+			},
+			"model": "sk:biomed_lava/block/stairs/straight/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080048
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080049
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080050
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080051
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080052
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080053
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080054
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080055
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080056
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080057
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080058
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080059
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080060
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080061
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080062
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080063
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_left/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080064
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080065
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080066
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080067
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080068
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080069
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080070
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080071
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080072
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080073
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080074
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080075
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080076
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080077
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080078
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080079
+			},
+			"model": "sk:biomed_lava/block/stairs/inner_right/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080080
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080081
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080082
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080083
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080084
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080085
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080086
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080087
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080088
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080089
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080090
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080091
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080092
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080093
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080094
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080095
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_left/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080096
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080097
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080098
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080099
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080100
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080101
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080102
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080103
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080104
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080105
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080106
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080107
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080108
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080109
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080110
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080111
+			},
+			"model": "sk:biomed_lava/block/stairs/outer_right/black"
+		}
+	]
+}
