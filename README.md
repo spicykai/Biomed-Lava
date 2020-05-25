@@ -9,6 +9,13 @@ Credits:
         Boomber360,
         Cloud Wolf
         
+        
+ This pack works best in smaller areas with lava. Lava lakes do not work well in this pack.
+ Set lighting to moody, and particles up for good atmosphere.
+ 
+ To spead up or change settings go to \biomedlava_v1.0.0\data\spicykai\functions\config\default.mcfunction
+ Mileage may vary, but more powerful computers will be able to push how far this pack can go.
+        
 ![alt tag](https://github.com/spicykai/Biomed-Lava/blob/master/2020-05-25_14.30.31.png "Description goes here")  
 ![alt tag](https://github.com/spicykai/Biomed-Lava/blob/master/2020-05-25_14.28.56.png "Description goes here")  
 ![alt tag](https://github.com/spicykai/Biomed-Lava/blob/master/2020-05-25_14.27.37.png "Description goes here")       
