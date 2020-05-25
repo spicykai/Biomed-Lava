@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": "Biomed Lava",
+		"description": "Running Biomed Lava by SpicyKai",
+		"icon": {"item": "minecraft:lava_bucket"},
+		"show_toast": false,
+		"announce_to_chat": false,
+		"frame": "goal",
+		"background":"sk:textures/block/background.png"
+    },
+	"criteria": {
+        "always": {
+			"trigger": "minecraft:tick"
+		}
+    }
+}
