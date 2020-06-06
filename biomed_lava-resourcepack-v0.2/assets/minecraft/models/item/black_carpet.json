@@ -1,0 +1,126 @@
+{
+	"parent": "block/black_carpet",
+	"overrides": [
+	
+		{
+			"predicate": {
+				"custom_model_data": 9080001
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080002
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080003
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080004
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080011
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/white_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080012
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/orange_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080013
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/magenta_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080014
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_blue_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080021
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/white_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080022
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080023
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080024
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080031
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/white_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080032
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080033
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080034
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080051
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/blue_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080052
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/blue_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9080053
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/blue_3"
+		},{
+			"predicate": {
+				"custom_model_data": 9080054
+			},
+			"model": "sk:biomed_lava/block/slabs/colors/blue_4"
+	
+			}
+	]
+}

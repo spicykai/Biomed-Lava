@@ -1,0 +1,7 @@
+{
+	"parent": "sk:biomed_lava/block/slabs/slabs",
+	"textures": {
+		"material": "sk:block/lava_still_1",
+		"material2": "sk:block/lava_still_1"
+	}
+}

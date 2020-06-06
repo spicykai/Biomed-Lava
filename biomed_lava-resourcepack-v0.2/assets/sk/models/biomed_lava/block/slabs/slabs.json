@@ -1,0 +1,22 @@
+{
+	"parent": "sk:biomed_lava/block/base",
+	"textures": {
+		"material": "block/stone",
+		"material2": "block/dirt"
+
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 14.2, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#material2"},
+				"east":  {"uv": [0, 0, 16, 16], "texture": "#material2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#material2"},
+				"west":  {"uv": [0, 0, 16, 16], "texture": "#material2"},
+				"up":    {"uv": [0, 0, 16, 16], "texture": "#material"},
+				"down":  {"uv": [0, 0, 16, 16], "texture": "#material"}
+			}
+		}
+	]
+}

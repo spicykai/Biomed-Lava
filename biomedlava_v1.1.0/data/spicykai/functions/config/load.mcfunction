@@ -1,0 +1,3 @@
+
+function spicykai:config/default
+
